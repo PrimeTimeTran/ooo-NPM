@@ -1,4 +1,15 @@
 {
 "name": "@primetimetran/ooo",
-"version": "1.0.0"
+"name": "@bamblehorse/tiny",
+  "version": "1.0.0",
+  "description": "Removes all spaces from a string",
+  "license": "MIT",
+  "repository": "primetimetran/ooo",
+  "main": "index.js",
+  "keywords": [
+    "tiny",
+    "npm",
+    "package",
+    "primetimetran"
+  ]
 }
